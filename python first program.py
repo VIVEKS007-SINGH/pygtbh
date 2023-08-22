@@ -12,3 +12,6 @@ for i in range (x):
     print("hello"*i)
     for j in range(x):
         print ("vivek" *i)
+
+
+        hello
